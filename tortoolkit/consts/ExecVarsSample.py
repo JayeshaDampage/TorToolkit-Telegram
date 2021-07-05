@@ -5,17 +5,17 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "628fa85a5a3f152de9ea111764a5d05a"
+        API_ID = 6943953
+        BOT_TOKEN = "1857560216:AAFHp1yjt1M_4Sy0PHEtZckFAxLn87W6RXo"
+        BASE_URL_OF_BOT = "http://t.me/RokyTorrentLeecher_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [1571278918,-1001391107811]
+        OWNER_ID = 1571278918
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
